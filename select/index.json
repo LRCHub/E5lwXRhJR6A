@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "行くぜっ！怪盗少女 (Cover)",
+  "base_artist": "Happy Around!",
+  "createdAt": "2026-01-09T06:59:11.541828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "行くぜっ!怪盗少女",
+      "artist": "ももいろクローバー",
+      "has_synced": true,
+      "path": "select/01_行くぜっ!怪盗少女_ももいろクローバー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "行くぜっ!怪盗少女 -ZZ ver.-",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/02_行くぜっ!怪盗少女_-ZZ_ver.-_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "行くぜっ!怪盗少女 -ZZ ver.-",
+      "artist": "ももいろクローバーZ",
+      "has_synced": false,
+      "path": "select/03_行くぜっ!怪盗少女_-ZZ_ver.-_ももいろクローバーZ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "行くぜっ!怪盗少女",
+      "artist": "ももいろクローバーZ",
+      "has_synced": true,
+      "path": "select/04_行くぜっ!怪盗少女_ももいろクローバーZ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "行くぜっ!怪盗少女",
+      "artist": "ももいろクローバー",
+      "has_synced": true,
+      "path": "select/05_行くぜっ!怪盗少女_ももいろクローバー.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "行くぜっ!怪盗少女",
+      "artist": "Momoiro Clover",
+      "has_synced": true,
+      "path": "select/06_行くぜっ!怪盗少女_Momoiro_Clover.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "行くぜっ!怪盗少女",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/07_行くぜっ!怪盗少女_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "行くぜっ!怪盗少女",
+      "artist": "GILLE",
+      "has_synced": true,
+      "path": "select/08_行くぜっ!怪盗少女_GILLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "行くぜっ！怪盗少女",
+      "artist": "346PRO",
+      "has_synced": false,
+      "path": "select/09_行くぜっ!怪盗少女_346PRO.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "行くぜっ！怪盗少女",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/10_行くぜっ!怪盗少女_AKB48.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "マツケンサンバII×行くぜっ!怪盗少女 -TeddyLoid ULTRA MASHUP ver.- - MATSUKENSANBAⅡ*Ikuze! Kaitou Shoujo -TeddyLoid ULTRA MASHUP ver.-",
+      "artist": "Ken Matsudaira • Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/11_マツケンサンバII×行くぜっ!怪盗少女_-TeddyLoid_ULTRA_MASHUP_ver.-_-_MATSUKENSANBAII_Ikuze!_Kaito_Ken_Matsudaira_•_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "行くぜっ!怪盗少女",
+      "artist": "Happy Around!",
+      "has_synced": false,
+      "path": "select/pl_01_行くぜっ!怪盗少女_Happy_Around!.txt"
+    }
+  ]
+}
